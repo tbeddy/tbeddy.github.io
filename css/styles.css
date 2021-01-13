@@ -10112,3 +10112,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* Custom styling */
+
+.project-gif {
+  height: 200px;
+  width: 350px;
+}
